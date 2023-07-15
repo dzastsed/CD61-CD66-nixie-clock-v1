@@ -39,6 +39,10 @@ https://github.com/dzastsed/CD61-CD66-nixie-clock/assets/63074962/8c647b59-98be-
 
 There are also two gerber files included, one is without customized silkscreen, other is the "meme" edition I and my friends made. Board layout is exactly the same, just the silkscreen differs.
 
+![image](https://github.com/dzastsed/CD61-CD66-nixie-clock/assets/63074962/0f0428b1-b2e8-42e6-b75c-df0b53595dd4)
+
+*Looks of the meme edition*
+
 Sadly I lost the project files when reinstalling my computer, so I cannot attach the schematic. However, the one from Greatscott! instructables page works just fine (link here: https://content.instructables.com/FL2/WNOE/K3XFLL97/FL2WNOEK3XFLL97.png) . Only difference would be 20K resistors instead of 10K on nixie power rails, and unslotted pot which connects to A3 on arduino.
 
 # Future plans 
