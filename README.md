@@ -24,6 +24,11 @@ I had found very little information on Hitachi CD61 nixies that I used here, but
 
 *Like, seriously, they look almost the same.*
 
+# Assembling
+
+Follow the guide on instructables and youtube:
+https://www.instructables.com/Make-Your-Own-Retro-Nixie-Clock-With-an-RTC/
+https://youtu.be/ObgmVNV1Kfg
 
 
 # Code
@@ -50,6 +55,8 @@ Sadly I lost the project files when reinstalling my computer, so I cannot attach
 V2 redesign to fit in different RTC module that I have and remove bodge requirements. Maybe also will add port for quick UART diagnostics and reprogramming.
 
 3D modelled case for the clock.
+
+New guide (will come with V2 redesign)
 
 # Credits
 TheMobas0 - for help on making the scramble code
