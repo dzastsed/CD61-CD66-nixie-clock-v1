@@ -45,7 +45,7 @@ Sadly I lost the project files when reinstalling my computer, so I cannot attach
 
 V2 redesign to fit in different RTC module that I have and remove bodge requirements. Maybe also will add port for quick UART diagnostics and reprogramming.
 
-3D moddeled case for the clock.
+3D modelled case for the clock.
 
 # Credits
 TheMobas0 - for help on making the scramble code
