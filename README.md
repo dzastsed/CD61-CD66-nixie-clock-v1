@@ -28,6 +28,7 @@ I had found very little information on Hitachi CD61 nixies that I used here, but
 
 Follow the guide on instructables and youtube:
 https://www.instructables.com/Make-Your-Own-Retro-Nixie-Clock-With-an-RTC/
+
 https://youtu.be/ObgmVNV1Kfg
 
 
