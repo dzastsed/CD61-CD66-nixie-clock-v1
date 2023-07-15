@@ -10,13 +10,13 @@ The design almost works as-is, just needs 3 bodge wires because I followed the d
 # Quirks
 
 ![IMG_20230715_1122362](https://github.com/dzastsed/CD61-CD66-nixie-clock/assets/63074962/e703b76a-5252-49ce-ac1c-22fa48506d18)
-*Bodge wires that were mentioned. (Point 11 goes to A3, point A6 goes to 2, and point A7 goes to TXO.)(cleanup pending)*
+*Bodge wires that were mentioned. (Point 11 goes to A3, point A6 goes to 2, and point A7 goes to TXO.) (cleanup pending)*
 
 Removes the requirement of using pulldown resistor on point 11 (initially I wanted to do that, but couldn't get it working, so relocated output to A3).
 
 # Nixie powering tips
 
-I had found very little information on Hitachi CD61 nixies that I used here, but they seem to be siblings of NEC/Rodan CD66, one of which I also had (AKA Siemens ZM1242) - the pinout and looks match, which had some more documentation. I calculated that driving them at 170 volts with 20k resistor attached should be the sweet spot. 
+I had found very little information on Hitachi CD61 nixies that I used here, but they seem to be siblings of NEC/Rodan CD66, one of which I also had (AKA Siemens ZM1242) - the pinout and looks match, and they had some more documentation. I calculated that powering them at 170 volts with 20k resistor attached should be the sweet spot. 
 
 ![image](https://github.com/dzastsed/CD61-CD66-nixie-clock/assets/63074962/46c15c17-8979-4a19-a33f-87dc6e3cfa2c)
 
