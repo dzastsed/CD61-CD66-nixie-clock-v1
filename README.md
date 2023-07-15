@@ -3,7 +3,7 @@ A CD61/CD66 nixie clock, based on Greatscott! IN-14 clock design
 ![image](https://github.com/dzastsed/CD61-CD66-nixie-clock/assets/63074962/ec3a7a2a-ae73-4c7e-8dee-cce5dd0d87ef)
 *I've finally made something that actually works!*
 
-Inspired and based on Greatscott's work: https://www.instructables.com/Make-Your-Own-Retro-Nixie-Clock-With-an-RTC/
+Inspired by and based on Greatscott's work: https://www.instructables.com/Make-Your-Own-Retro-Nixie-Clock-With-an-RTC/
 
 The design almost works as-is, just needs 3 bodge wires because I followed the design directly (a V2 PCB redesign is planned sometime in the future to address this.).
 
