@@ -1,5 +1,8 @@
 # CD61-CD66-nixie-clock
 A CD61/CD66 nixie clock, based on Greatscott! IN-14 clock design
+
+archived as of 2024-02-29 in favor of a new version being wip: https://github.com/dzastsed/CD61-CD66-nixie-clock-v2
+
 ![image](https://github.com/dzastsed/CD61-CD66-nixie-clock/assets/63074962/ec3a7a2a-ae73-4c7e-8dee-cce5dd0d87ef)
 *I've finally made something that actually works!*
 
